@@ -28,11 +28,11 @@ The motivation behind this project was to create a functioning application that 
 The application would source the open weather API to create a 5 day / 3 hour forecast of the user's searched or previously searched cities.
 
 ## Live Link:
-[WeatherForecast2023](https://ausdru.github.io/WeatherForecast2023/)
+[WeatherForecast23](https://ausdru.github.io/WeatherForecast23/)
 
 ## Usage:
-![screenshot1](./assets/img1.png)
-![screenshot2](./assets/img2.png)
+![screenshot1](./assets/imgs/img1.PNG)
+![screenshot2](./assets/imgs/img2.PNG)
 
 ## Sources:
 1. https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js
