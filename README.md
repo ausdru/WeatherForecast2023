@@ -31,8 +31,13 @@ The application would source the open weather API to create a 5 day / 3 hour for
 [WeatherForecast2023](https://ausdru.github.io/WeatherForecast2023/)
 
 ## Usage:
-![screenshot1](./assets/ss1.png)
-![screenshot2](./assets/ss2.png)
-
+![screenshot1](./assets/img1.png)
+![screenshot2](./assets/img2.png)
 
 ## Sources:
+1. https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js
+2. https://code.jquery.com/jquery.js
+3. https://fonts.googleapis.com/css?family=Open+Sans&display=swap
+4. https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css
+
+
